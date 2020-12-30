@@ -11,7 +11,7 @@
 </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="20"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;My Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -23,6 +23,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase.js-05122A?style=flat&logo=firebase)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
