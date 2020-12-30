@@ -41,6 +41,7 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Adobe Audition](https://img.shields.io/badge/-Audition-05122A?style=flat&logo=adobe-audition)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
 
 <br />
 
