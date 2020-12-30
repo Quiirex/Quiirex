@@ -39,9 +39,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
-![Adobe Audition](https://img.shields.io/badge/-Audition-05122A?style=flat&logo=adobe-audition)&nbsp;
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=B788BC)&nbsp;
+![Adobe Audition](https://img.shields.io/badge/-Audition-05122A?style=flat&logo=adobe-audition&logoColor=73CBCC)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=AF8DC0)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 <br />
