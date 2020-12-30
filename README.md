@@ -10,6 +10,7 @@
 ✍️ &nbsp;In my free time, I like playing video games and read.<br/>
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
 </p>
+<br/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
