@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and automate most of my workflow.<br/>
 🎓 &nbsp;I'm currently studying Informatics and communication technologies at the Faculty of Electrical Engineering and Computer Science (University of Maribor). Current profession is computer technician.<br/>
 🤔 &nbsp;I'm very interested in Artificial Intelligence, Machine Learning and Biometrics.<br/>
-🎮 &nbsp;In my free time, I like playing video games and reading.<br/>
+🎮 &nbsp;In my free time, I like playing video games and browsing reddit.<br/>
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
 </p>
   </samp>
