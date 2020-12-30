@@ -26,18 +26,20 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=2862E9)&nbsp;
+![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)\
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
+
 <br />
 ### ⚙️ &nbsp;GitHub Analytics
 
