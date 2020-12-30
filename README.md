@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Luka</h2>
+<img alt="Wave" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width='40' align="left"/><h2>Hey there! I'm Luka</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Luka -->
 
