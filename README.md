@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I like playing video games and read.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+<br />
 ### 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%23&logoColor=007ACC)&nbsp;
