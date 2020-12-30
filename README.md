@@ -1,7 +1,7 @@
 <img alt="Wave" src="https://media4.giphy.com/media/3oKIPsx2VAYAgEHC12/200.gif" width='100' align="left"/><h2>Hey there! I'm Luka</h2>
 
 <p align="center">
-👨🏻‍💻 &nbsp;About Me<br/>
+  👨🏻‍💻 &nbsp;<b>About Me</b><br/>
 ################################################<br/>
 💡 &nbsp;I like to explore new technologies and automate most of my workflow.<br/>
 🎓 &nbsp;I'm currently studying Informatics and communication technologies at the Faculty of Electrical Engineering and Computer Science (University of Maribor).<br/>
