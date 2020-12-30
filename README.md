@@ -11,8 +11,11 @@
 </p>
   </samp>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="20"/>
+<samp>
 
 ### 🛠 &nbsp;My Tech Stack
+
+</samp>
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -51,8 +54,11 @@
 ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 <br />
+<samp>
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+</samp>
 
 <p align="left">
 <a href="https://github.com/Quiirex">
