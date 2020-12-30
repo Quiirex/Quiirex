@@ -36,7 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
-![Weka](https://img.shields.io/badge/-Weka-05122A?style=flat&logo=weka)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
