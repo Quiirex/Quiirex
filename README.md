@@ -1,16 +1,14 @@
 <img alt="Wave" src="https://media4.giphy.com/media/3oKIPsx2VAYAgEHC12/200.gif" width='100' align="left"/><h2>Hey there! I'm Luka</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Luka -->
-
-### 👨🏻‍💻 &nbsp;About Me
 <p align="center">
+### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and automate most of my workflow.<br/>
 🎓 &nbsp;I'm currently studying Informatics and communication technologies at the Faculty of Electrical Engineering and Computer Science (University of Maribor).<br/>
 🌱 &nbsp;I'm on a track for learning more about Artificial Intelligence, Machine Learning and Biometrics.<br/>
 ✍️ &nbsp;In my free time, I like playing video games and read.<br/>
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
 </p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin-top="20"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="20"/>
 
 ### 🛠 &nbsp;Tech Stack
 
