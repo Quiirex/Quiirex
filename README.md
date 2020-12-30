@@ -37,7 +37,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
-![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=office365)&nbsp;
+![Kleopatra](https://img.shields.io/badge/-Kleopatra-05122A?style=flat&logo=kleopatra)&nbsp;
 <br />
 ### ⚙️ &nbsp;GitHub Analytics
 
