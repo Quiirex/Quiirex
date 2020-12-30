@@ -13,7 +13,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#&logoColor=007ACC)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%23&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
