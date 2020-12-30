@@ -1,8 +1,9 @@
 <h2><samp>Hey there! I'm Luka</samp></h2>
-<samp>
+
 <p align="center">
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
+  <samp>
 💡 &nbsp;I like to explore new technologies and automate most of my workflow.<br/>
 🎓 &nbsp;I'm currently studying Informatics and communication technologies at the Faculty of Electrical Engineering and Computer Science (University of Maribor). Current profession is computer technician.<br/>
 🤔 &nbsp;I'm very interested in Artificial Intelligence, Machine Learning and Biometrics.<br/>
@@ -11,11 +12,8 @@
 </p>
   </samp>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="20"/>
-<samp>
 
 ### 🛠 &nbsp;My Tech Stack
-
-</samp>
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -54,7 +52,6 @@
 ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 <br />
-<samp>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -63,4 +60,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quiirex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-</samp>
