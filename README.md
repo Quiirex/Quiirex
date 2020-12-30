@@ -46,7 +46,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat&logo=adobe-lightroom&logoColor=AFD4DD)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-XD-05122A?style=flat&logo=adobe-xd&logoColor=FF2AC0)&nbsp;
-
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 <br />
 
 ### ⚙️ &nbsp;GitHub Analytics
