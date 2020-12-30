@@ -3,13 +3,13 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Luka -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<p align="center">
 💡 &nbsp;I like to explore new technologies and automate most of my workflow.\
 🎓 &nbsp;I'm currently studying Informatics and communication technologies at the Faculty of Electrical Engineering and Computer Science (University of Maribor).\
 🌱 &nbsp;I'm on a track for learning more about Artificial Intelligence, Machine Learning and Biometrics.\
 ✍️ &nbsp;In my free time, I like playing video games and read.\
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
-
+</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
