@@ -1,5 +1,5 @@
 <h2><samp>Hey there! I'm Luka</samp></h2>
-
+<samp>
 <p align="center">
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
@@ -9,6 +9,7 @@
 🎮 &nbsp;In my free time, I like playing video games and reading.<br/>
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
 </p>
+  </samp>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="20"/>
 
 ### 🛠 &nbsp;My Tech Stack
