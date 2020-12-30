@@ -1,4 +1,4 @@
-<img alt="Wave" src="https://media4.giphy.com/media/3oKIPsx2VAYAgEHC12/200.gif" width='100' align="left"/><h2>Hey there! I'm Luka</h2>
+<h2>Hey there! I'm Luka</h2>
 
 <p align="center">
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
