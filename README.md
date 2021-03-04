@@ -21,8 +21,8 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
-![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)\
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)\
+![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Xampp](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp)&nbsp;
