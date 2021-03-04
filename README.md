@@ -11,7 +11,7 @@
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
 </p>
   </samp>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="0"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="100px"/>
 
 ### 🛠 &nbsp;My Tech Stack
 
