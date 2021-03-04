@@ -35,7 +35,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
 
 <br />
 
