@@ -11,7 +11,7 @@
 👌 &nbsp;I'm a very detail oriented person - a perfectionist.
 </p>
   </samp>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="20"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin="0"/>
 
 ### 🛠 &nbsp;My Tech Stack
 
@@ -43,7 +43,7 @@
 
 <p align="left">
 <a href="https://github.com/Quiirex">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quiirex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quiirex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
