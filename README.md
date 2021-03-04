@@ -17,23 +17,18 @@
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)\
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby&logoColor=C70039)&nbsp;
 ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
-![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails&logoColor=C70039)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Xampp](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=2862E9)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
@@ -42,17 +37,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=B788BC)&nbsp;
-![Adobe Audition](https://img.shields.io/badge/-Audition-05122A?style=flat&logo=adobe-audition&logoColor=73CBCC)\
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=AF8DC0)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
-![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat&logo=adobe-lightroom&logoColor=AFD4DD)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-XD-05122A?style=flat&logo=adobe-xd&logoColor=FF2AC0)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 
 <br />
 
