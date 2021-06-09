@@ -12,7 +12,7 @@
   </samp>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="170px"/>
 
-### 🛠 &nbsp;My Tech Stack
+### 🛠 &nbsp;My (main) Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
