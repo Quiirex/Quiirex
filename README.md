@@ -1,4 +1,3 @@
-<h2><samp>Hey there! I'm Luka</samp></h2>
 
 <p align="center">
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
