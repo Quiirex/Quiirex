@@ -3,7 +3,6 @@
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
   <samp>
-💡 &nbsp;I like to explore new technologies and automate most of my workflow.<br/>
 🎓 &nbsp;I'm currently studying Informatics and communication technologies (IT) at the Faculty of Electrical Engineering and Computer Science (University of Maribor). My current profession is computer technician.<br/>
 🤔 &nbsp;I'm interested in Artificial Intelligence, Machine Learning, Containerization and Biometrics.<br/>
 🎮 &nbsp;In my free time I like to play video games (big fan of the soulsborne), listen to podcasts and waste my time on reddit.<br/>
