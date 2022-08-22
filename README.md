@@ -3,7 +3,7 @@
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
   <samp>
-🎓 &nbsp;I'm currently studying Informatics and communication technologies (IT) at the Faculty of Electrical Engineering and Computer Science (University of Maribor). My current profession is computer technician.<br/>
+🎓 &nbsp;Informatics and communication technologies (IT) undergrad at the Faculty of Electrical Engineering and Computer Science (University of Maribor). My current profession is computer technician.<br/>
 🤔 &nbsp;I'm interested in Artificial Intelligence, Machine Learning, Containerization and Biometrics.<br/>
 </p>
   </samp>
