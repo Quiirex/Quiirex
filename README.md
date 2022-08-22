@@ -3,7 +3,7 @@
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
   <samp>
-🎓 &nbsp;Informatics and communication technologies (IT) undergrad at the Faculty of Electrical Engineering and Computer Science (University of Maribor). Computer technician.<br/>
+🎓 &nbsp;Informatics and communication technologies (IT) graduate from the Faculty of Electrical Engineering and Computer Science (University of Maribor). Computer technician.<br/>
 🤔 &nbsp;I'm interested in Artificial Intelligence, Machine Learning, Containerization and Biometrics.<br/>
 </p>
   </samp>
