@@ -4,7 +4,7 @@
   <br/>
   <samp>
 🎓 &nbsp;Full stack software engineer, master's degree student, computer technician.<br/>
-🤔 &nbsp;Interested in Artificial Intelligence, Machine Learning, Containerization and Biometrics.<br/>
+🤔 &nbsp;Interested in Artificial Intelligence, Machine Learning, Deep learning and DevOps<br/>
 </p>
   </samp>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="170px"/>
