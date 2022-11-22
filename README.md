@@ -1,4 +1,4 @@
-
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Quiirex)
 <p align="center">
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
