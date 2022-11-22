@@ -1,4 +1,5 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Quiirex)
+[![Github](https://img.shields.io/github/followers/Quiirex?label=follow&style=social)](https://github.com/Quiirex)
 <p align="center">
   👨🏻‍💻 &nbsp;<b>About Me</b><br/>
   <br/>
