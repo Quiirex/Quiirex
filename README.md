@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women  
 
 
-- “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- 🥸 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
   
 
 <br/>  
