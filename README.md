@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Luka, a full-stack software engineer👨‍💻, master's degree student, computer technician</div>  
+### <div align="center">I'm Luka, a full-stack software engineer, master's degree student, computer technician</div>  
   
 
 - 🔭 Interested in the fields of Artificial Intelligence, Machine Learning, Deep learning and DevOps  
