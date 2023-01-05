@@ -7,9 +7,6 @@
   
 
 - 🔭 Interested in the fields of Artificial Intelligence, Machine Learning, Deep learning and DevOps  
-  
-
-- ⚡ Fun fact: Computer was a job title, and the first programmers were women  
 
 
 - 🥸 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
