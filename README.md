@@ -6,7 +6,7 @@
 ### <div align="center">I'm Luka, a full-stack software engineer, master's degree student, computer technician</div>  
   
 
-- 🔭 Interested in the fields of Artificial Intelligence, Machine Learning, Deep learning and DevOps  
+- 🔭 Interested in the fields of Artificial Intelligence, Machine Learning, Deep learning, Natural language processing and DevOps  
 
 
 - 🥸 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
