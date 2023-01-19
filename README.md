@@ -79,23 +79,13 @@
 
 </td></tr></table>  
 
-
-## ⚙️ Github Analytics  
-<p align="left">
-<a href="https://github.com/Quiirex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quiirex&show_icons=true&count_private=true&hide_border=true" align="center" />  
-</a>
-</p>
-
-<br/>  
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=Quiirex&&style=flat-square" align="center" />
 </div>  
 
 <details align="center">
 
-<summary> <b> <samp>You've made it this far! Light bonfire </samp></b></summary>
+<summary> <b> <samp>You've made it this far! Light bonfire</samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
