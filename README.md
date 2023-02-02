@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>  
-  
-
+### <p align="center">Welcome to my personal GitHub page!</p>
 ### <div align="center">I'm Luka, a software engineer, master's degree student and a computer technician</div>  
   
 
