@@ -18,6 +18,6 @@ jobs:
           config_timezone: Europe/Ljubljana
           base: header
           plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
-          config_order: base.header, isocalendar, languages, stars
+          plugin_traffic: yes
+          plugin_achievements: yes
+          config_order: base.header, isocalendar, traffic, achievements
