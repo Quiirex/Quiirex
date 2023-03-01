@@ -1,7 +1,4 @@
-### Welcome to my personal GitHub page 👋
+<h1 align="center">Hi 👋, I'm Luka</h1>
+<h3 align="center">Software engineer, master's degree student and a computer technician</h3>
 
-<p align="center">
-  <a href="https://github.com/Quiirex/">
-    <img src="https://raw.githubusercontent.com/Quiirex/Quiirex/main/github-metrics.svg" />
-  </a>
-</p>
+![Metrics](github-metrics.svg)
