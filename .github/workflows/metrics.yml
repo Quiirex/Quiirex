@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Quiirex
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_animations: yes
           config_timezone: Europe/Ljubljana
           optimize: no
