@@ -16,7 +16,6 @@ jobs:
           base: header, activity, community, repositories
           use_prebuilt_image: yes
           config_animations: yes
-          config_display: large
           config_timezone: Europe/Ljubljana
           optimize: no
           plugin_achievements: yes
