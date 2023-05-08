@@ -32,6 +32,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_indepth: true
           plugin_languages_ignored: Assembly, Pawn, html, css
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_lines: yes
           plugin_traffic: yes
