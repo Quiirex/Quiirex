@@ -18,9 +18,6 @@ jobs:
           config_animations: yes
           config_display: large
           config_timezone: Europe/Ljubljana
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: AIzaSyBINcCB-L9gNEnKvfx8hwkz_6Tn3nM4BY0 
-          plugin_pagespeed_url: https://lukamlinaric.vercel.app/
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
