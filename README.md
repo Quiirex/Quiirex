@@ -31,4 +31,5 @@ An experienced and passionate full-stack software developer from Slovenia with a
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="30" height="30"/></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="30" height="30"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30"/></a>
