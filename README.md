@@ -1,4 +1,4 @@
-## Hi, I'm Luka 👋
+# Hi, I'm Luka 👋
 An experienced and passionate full-stack software developer from Slovenia with a knack for creating cutting-edge, scalable solutions.
 
 ## About Me
