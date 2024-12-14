@@ -12,9 +12,9 @@ An experienced and passionate full-stack software developer from Slovenia with a
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="30" height="30"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="30" height="30"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="c#" width="30" height="30"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="Python" width="30" height="30"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="30" height="30"/></a> 
