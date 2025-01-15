@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=600&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Luka;Enjoy+your+stay&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=600&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Enjoy+your+stay&size=30">
   </a>
 </h1>
-An experienced and passionate full-stack software developer from Slovenia with a knack for creating cutting-edge, scalable solutions.
+I'm an experienced and passionate full-stack software developer from Slovenia with a knack for creating cutting-edge, scalable solutions.
 
-## About Me
+### About Me
 - 🎓 Master’s degree in Informatics and Data Technologies
 - 🚀 A results-driven professional specializing in full-stack development, tackling complex challenges with expertise and creativity
 - 💻 Proficient in JavaScript, TypeScript, Java, C#, and Python
