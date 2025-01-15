@@ -37,3 +37,7 @@ I'm an experienced and passionate full-stack software developer from Slovenia wi
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30"/></a>
+
+<h4 align="center">
+  <a href="https://github.com/Quiirex?tab=repositories" title="Show Repositories">⏩ My Repositories ⏪</a>
+</h4>
