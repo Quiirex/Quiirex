@@ -13,7 +13,7 @@ class Quiirex:
         self.education = 'Masters Degree in Informatics and Data Technologies'
         self.web = 'https://www.lukamlinaricfekonja.com'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'ReactJS', 'Next.js', 'Vue.js', 'Angular', 'Tailwind'],
+            'frontend': ['JavaScript', 'TypeScript', 'ReactJS', 'Next.js', 'Vue.js', 'Angular', 'Tailwind'],
             'backend': ['Python', 'FastAPI', 'NodeJS', 'Express', 'Java', 'Spring Boot', 'C#', '.NET Core'],
             'database': ['MySQL', 'MongoDB', 'Redis', 'RabbitMQ', 'Elasticsearch', 'PostgreSQL'],
             'devops': ['Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions'],
