@@ -14,7 +14,7 @@ class Quiirex:
         self.web = 'https://www.lukamlinaricfekonja.com'
         self.code = {
             'frontend': ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Vue.js', 'Angular', 'Tailwind'],
-            'backend': ['Python', 'FastAPI', 'NodeJS', 'Express', 'Java', 'Spring Boot', 'C#', '.NET Core'],
+            'backend': ['Python', 'FastAPI', 'Node.js', 'Nest.js', 'Express.js', 'Java', 'Spring Boot', 'C#', '.NET Core'],
             'database': ['MySQL', 'MongoDB', 'Redis', 'RabbitMQ', 'Elasticsearch', 'PostgreSQL'],
             'devops': ['Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions'],
             'misc': ['Figma', 'Kibana', 'Prometheus']
