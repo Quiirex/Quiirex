@@ -1,4 +1,5 @@
-<h1 align="center">
+I write code.
+<!--<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=600&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Enjoy+your+stay!&size=30">
   </a>
@@ -29,3 +30,4 @@ if __name__ == '__main__':
     print(me)
 ```
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Quiirex.Quiirex)
+-->
